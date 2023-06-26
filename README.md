@@ -35,7 +35,7 @@
 - ✖🟥Reverse Nodes In K Group
 
 ###### Stack
-- ✖🟨Valid Parentheses
+- ✔🟩Valid Parentheses
 - ✖🟨Min Stack
 - ✖🟨Evaluate Reverse Polish Notation
 - ✖🟨Generate Parentheses
