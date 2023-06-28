@@ -52,7 +52,7 @@
 - ✖🟥Sliding Window Maximum
 
 ###### Binary Search
-- ✖🟩Binary Search
+- ✔🟩Binary Search
 - ✖🟨Search a 2D Matrix
 - ✖🟨Koko Eating Bananas
 - ✖🟨Find Minimum In Rotated Sorted Array
