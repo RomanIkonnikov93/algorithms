@@ -22,8 +22,8 @@
 - ✖🟥Trapping Rain Water
 
 ###### Linked List
-- ✖🟩Reverse Linked List
-- ✖🟩Merge Two Sorted Lists
+- ✔🟩Reverse Linked List
+- ✔🟩Merge Two Sorted Lists
 - ✖🟩Linked List Cycle
 - ✖🟨Reorder List
 - ✖🟨Remove Nth Node From End of List
